@@ -4,5 +4,5 @@ prerequisites :
  "use db"
  "create table employee (id int primary key,name varchar(50),email varchar(50),salary float,address varchar(100));"
 
- in app.main:
+ in connection.java:
  set your db password(currently set as"____")
