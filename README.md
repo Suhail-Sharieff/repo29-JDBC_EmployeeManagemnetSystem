@@ -2,3 +2,11 @@
 
 
 go through the readMe file in EMS folder to run the app
+
+Note: Connector needs to be pre  Download the MySQL JDBC Driver:
+
+Visit the official MySQL Connector/J download page: https://dev.mysql.com/downloads/connector/j/
+Choose the appropriate driver version compatible with your Java version and MySQL database version.
+Download the JAR file (e.g., mysql-connector-java-8.0.30.jar).
+
+add this jar file to ref lib in code editor
